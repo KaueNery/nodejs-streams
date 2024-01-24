@@ -1,0 +1,3 @@
+Using streams to load data on demand. 
+
+In this small study I got a huge csv file and transformed it to JSON, sent to the frontend and received on the frontend all on demand, using JS Streams.
